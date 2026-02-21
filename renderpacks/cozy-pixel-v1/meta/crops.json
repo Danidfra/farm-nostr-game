@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "tileSize": 96,
+
+  "layoutDefaults": {
+    "direction": "horizontal",
+    "origin": "top-left"
+  },
+
+  "crops": {
+    "carrot": {
+      "file": "assets/crops/carrot.png",
+      "stages": 4,
+      "harvestStage": 3
+    },
+
+    "parsnip": {
+      "file": "assets/crops/parsnip.png",
+      "stages": 4,
+      "harvestStage": 3
+    },
+
+    "pumpkin": {
+      "file": "assets/crops/pumpkin.png",
+      "stages": 4,
+      "harvestStage": 3
+    },
+
+    "strawberry": {
+      "file": "assets/crops/strawberry.png",
+      "stages": 4,
+      "harvestStage": 3
+    }
+  }
+}
