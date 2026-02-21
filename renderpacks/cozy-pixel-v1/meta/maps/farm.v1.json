@@ -1,25 +1,13 @@
 {
   "id": "farm.v1",
   "background": "assets/backgrounds/farm.png",
-
   "tileSize": 96,
 
-  "plantAreaRect": {
-    "x": 270,
-    "y": 340,
-    "w": 976,
-    "h": 464
-  },
+  "plantAreaRect": { "x": 270, "y": 340, "w": 976, "h": 464 },
 
-  "grid": {
-    "cols": 9,
-    "rows": 4,
-    "align": "center"
-  },
+  "grid": { "cols": 9, "rows": 4, "align": "center" },
 
-  "zIndex": {
-    "plants": 10
-  },
+  "zIndex": { "plants": 10 },
 
   "notes": "Centered grid inside plantAreaRect. Client computes gaps automatically."
 }

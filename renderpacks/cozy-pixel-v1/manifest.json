@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "tileSize": 96,
 
+  "entryMap": "farm.v1",
+
   "maps": [
     "meta/maps/farm.v1.json"
   ],
