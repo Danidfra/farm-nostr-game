@@ -11,25 +11,29 @@
     "carrot": {
       "file": "assets/crops/carrot.png",
       "stages": 4,
-      "harvestStage": 3
+      "harvestStage": 3,
+      "stageDurationSec": 300
     },
 
     "parsnip": {
       "file": "assets/crops/parsnip.png",
       "stages": 4,
-      "harvestStage": 3
+      "harvestStage": 3,
+      "stageDurationSec": 300
     },
 
     "pumpkin": {
       "file": "assets/crops/pumpkin.png",
       "stages": 4,
-      "harvestStage": 3
+      "harvestStage": 3,
+      "stageDurationSec": 300
     },
 
     "strawberry": {
       "file": "assets/crops/strawberry.png",
       "stages": 4,
-      "harvestStage": 3
+      "harvestStage": 3,
+      "stageDurationSec": 300
     }
   }
 }
