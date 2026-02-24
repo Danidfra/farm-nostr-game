@@ -12,28 +12,32 @@
       "file": "assets/crops/carrot.png",
       "stages": 4,
       "harvestStage": 3,
-      "stageDurationSec": 300
+      "stageDurationSec": 300,
+      "rottenFile": "crops/crop_rotten.png"
     },
 
     "parsnip": {
       "file": "assets/crops/parsnip.png",
       "stages": 4,
       "harvestStage": 3,
-      "stageDurationSec": 300
+      "stageDurationSec": 300,
+      "rottenFile": "crops/crop_rotten.png"
     },
 
     "pumpkin": {
       "file": "assets/crops/pumpkin.png",
       "stages": 4,
       "harvestStage": 3,
-      "stageDurationSec": 300
+      "stageDurationSec": 300,
+      "rottenFile": "crops/crop_rotten.png"
     },
 
     "strawberry": {
       "file": "assets/crops/strawberry.png",
       "stages": 4,
       "harvestStage": 3,
-      "stageDurationSec": 300
+      "stageDurationSec": 300,
+      "rottenFile": "crops/crop_rotten.png"
     }
   }
 }
