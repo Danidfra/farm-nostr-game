@@ -13,7 +13,7 @@
       "stages": 4,
       "harvestStage": 3,
       "stageDurationSec": 300,
-      "rottenFile": "crops/crop_rotten.png"
+      "rottenFile": "crops/crop-rotten.png"
     },
 
     "parsnip": {
@@ -21,7 +21,7 @@
       "stages": 4,
       "harvestStage": 3,
       "stageDurationSec": 300,
-      "rottenFile": "crops/crop_rotten.png"
+      "rottenFile": "crops/crop-rotten.png"
     },
 
     "pumpkin": {
@@ -29,7 +29,7 @@
       "stages": 4,
       "harvestStage": 3,
       "stageDurationSec": 300,
-      "rottenFile": "crops/crop_rotten.png"
+      "rottenFile": "crops/crop-rotten.png"
     },
 
     "strawberry": {
@@ -37,7 +37,7 @@
       "stages": 4,
       "harvestStage": 3,
       "stageDurationSec": 300,
-      "rottenFile": "crops/crop_rotten.png"
+      "rottenFile": "crops/crop-rotten.png"
     }
   }
 }
