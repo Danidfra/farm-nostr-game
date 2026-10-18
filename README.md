@@ -122,6 +122,10 @@ This allows:
 
 📜 License
 
-See LICENSE￼.
+- **Metadata and documentation** (the manifests, crop and map JSON, and this
+  README): MIT. See [LICENSE](LICENSE).
+- **Artwork** (the images under `renderpacks/*/assets/`): generated with ChatGPT
+  image generation. It is not covered by LICENSE: how it may be reused, and what
+  is and is not claimed about it, is in [ASSETS.md](ASSETS.md).
 
 ---
